@@ -1,0 +1,10 @@
+{
+  "name": "typescript-9731",
+  "scripts": {
+    "test": "tsc"
+  },
+  "devDependencies": {
+    "gulp-typings": "^2.0.0",
+    "typescript": "^2.1.0-dev.20160719"
+  }
+}
